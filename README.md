@@ -47,9 +47,9 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=mrinal-mann&theme=dark"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mrinal-mann" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mrinal-mann&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal-mann&hide_progress=true" />
 </div>
 
 <br/><br/>
