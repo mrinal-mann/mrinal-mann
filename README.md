@@ -1,5 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mrinal-mann.mrinal-mann" />
 </div>
@@ -68,7 +66,7 @@
   <img width=390 src="https://streak-stats.demolab.com?user=mrinal-mann&theme=dark"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mrinal-mann&show_icons=true&theme=dark" />
   <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal-mann&hide_progress=true" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal-mann&hide_progress=true&theme=dark" />
 </p>
 
 ---
