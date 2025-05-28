@@ -12,8 +12,8 @@
 
 ### 🧑‍💻 About Me
 - 🚀 Building **AI-driven full stack apps** with real-world impact  
-- 🛠️ Currently developing **RepoFlow AI** – An AI-powered code analysis platform  
-- 🔭 Latest project: **Sketch2Code** – From wireframe to production code using GenAI  
+- 🛠️ Currently learning **AI-Agents**  
+- 🔭 Latest project: **RepoFlow AI** – An AI-powered code analysis platform    
 - 🎓 Studying B.Tech CSE at **Balasore College of Engineering & Technology** (GPA: 8.5)  
 - 🧠 Exploring **LangChain**, **Gemini AI**, **tRPC**, and all things GenAI  
 - ✨ Fun fact: *Night's Watch cloaks in Game of Thrones were made from IKEA rugs!*  
