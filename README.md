@@ -1,31 +1,31 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mrinal%20Manna&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20%26%20AI%20Engineer%20|%203x%20Hackathon%20Winner&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Mrinal%20Manna&amp;fontSize=42&amp;fontAlignY=35&amp;animation=twinkling&amp;fontColor=fff&amp;desc=Full-Stack%20%26%20AI%20Engineer%20|%203x%20Hackathon%20Winner&amp;descAlignY=55&amp;descSize=18"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Solutions+%F0%9F%9A%80;Full-Stack+Developer+%7C+GenAI+Engineer;RAG+Pipelines+%7C+Scalable+Backends;Chrome+Extension+(1K%2B+Users)+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Building+AI-Powered+Solutions+%F0%9F%9A%80;Full-Stack+Developer+%7C+GenAI+Engineer;RAG+Pipelines+%7C+Scalable+Backends;Chrome+Extension+(1K%2B+Users)+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <!-- Social Badges -->
 <p>
   <a href="mailto:mrinalmanna2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/mrinal-manna/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://portfoliomrinal.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/mrinal-manna" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <!-- Visitor Badge & Profile Views -->
 <p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrinal-manna.mrinal-manna&color=58a6ff&logo=github" alt="Visitors"/>
-  <img src="https://img.shields.io/github/followers/mrinal-manna?label=Followers&style=social" alt="GitHub Badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrinal-manna.mrinal-manna&amp;color=58a6ff&amp;logo=github" alt="Visitors"/>
+  <img src="https://img.shields.io/github/followers/mrinal-manna?label=Followers&amp;style=social" alt="GitHub Badge"/>
 </p>
 
 </div>
@@ -36,22 +36,23 @@
 
 ```typescript
 const mrinalManna = {
-    location: "Balasore, India 🇮🇳",
-    education: "B.Tech CSE @ BCET | GPA: 8.5/10",
-    currentRole: "Software Engineer Intern @ Wizible AI",
-    previousRole: "Software Engineer Intern @ Knugget AI",
-    
-    workingOn: ["AI Pipelines", "RAG Systems", "Multi-Model Integration"],
-    learning: ["AI Agents", "LangChain", "Vector Databases"],
-    
-    achievements: {
-        hackathonWins: 3,
-        chromeExtensionUsers: "1K+",
-        projectUsers: "50+",
-        dsaProblems: "300+"
-    },
-    
-    funFact: "Night's Watch cloaks in Game of Thrones were made from IKEA rugs! 🛋️"
+  location: "Balasore, India 🇮🇳",
+  education: "B.Tech CSE @ BCET | GPA: 8.5/10",
+  currentRole: "Software Engineer Intern @ Wizible AI",
+  previousRole: "Software Engineer Intern @ Knugget AI",
+
+  workingOn: ["AI Pipelines", "RAG Systems", "Multi-Model Integration"],
+  learning: ["AI Agents", "LangChain", "Vector Databases"],
+
+  achievements: {
+    hackathonWins: 3,
+    chromeExtensionUsers: "1K+",
+    projectUsers: "50+",
+    dsaProblems: "300+",
+  },
+
+  funFact:
+    "Night's Watch cloaks in Game of Thrones were made from IKEA rugs! 🛋️",
 };
 ```
 
@@ -66,7 +67,8 @@ const mrinalManna = {
 <td width="50%" valign="top">
 
 #### 🔷 Wizible AI (Current)
-**Software Engineer Intern** | *July 2025 - Present*
+
+**Software Engineer Intern** | _July 2025 - Present_
 
 - 🤖 Built multi-model AI pipelines (OpenAI, Claude, Gemini, LlamaIndex)
 - ⚡ Processing 100+ concurrent files with batch orchestration
@@ -77,7 +79,8 @@ const mrinalManna = {
 <td width="50%" valign="top">
 
 #### 🔷 Knugget AI
-**Software Engineer Intern** | *May 2025 - July 2025*
+
+**Software Engineer Intern** | _May 2025 - July 2025_
 
 - 🎯 Shipped GPT-powered Chrome extension (1K+ installs)
 - 🔧 Production-grade REST APIs with JWT/Firebase auth
@@ -95,31 +98,36 @@ const mrinalManna = {
 <div align="center">
 
 ### Languages & Core Technologies
+
 <p>
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,c,java" />
 </p>
 
 ### Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
 ### Backend & Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,firebase,redis,prisma" />
 </p>
 
 ### AI & Machine Learning
+
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&amp;logo=google&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&amp;logo=llama&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge&amp;logo=database&amp;logoColor=white" />
 </p>
 
 ### DevOps & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vercel" />
 </p>
@@ -137,6 +145,7 @@ const mrinalManna = {
 <td width="50%" valign="top">
 
 ### 🌟 [RepoFlow AI](https://repoflow.vercel.app/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mrinal-manna/repoflow-ai)
 [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white)](https://repoflow.vercel.app/)
 
@@ -153,6 +162,7 @@ const mrinalManna = {
 <td width="50%" valign="top">
 
 ### ✨ [Sketch2Code AI](https://sketch2-code.vercel.app/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mrinal-manna/sketch2code)
 [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white)](https://sketch2-code.vercel.app/)
 
@@ -177,7 +187,7 @@ const mrinalManna = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mrinal-manna&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mrinal-mann&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4&amp;column=7" alt="Trophy" />
 
 </div>
 
@@ -186,6 +196,7 @@ const mrinalManna = {
 <td width="33%" align="center">
 
 ### 🥇 BPUT Hackathon 2024
+
 **₹30,000 Prize**
 
 AI-powered supply chain + carbon tracking dashboard
@@ -194,6 +205,7 @@ AI-powered supply chain + carbon tracking dashboard
 <td width="33%" align="center">
 
 ### 🥇 InnovateX 2025
+
 **₹15,000 Prize**
 
 Real-time disaster response tool using WebXR
@@ -202,6 +214,7 @@ Real-time disaster response tool using WebXR
 <td width="33%" align="center">
 
 ### 🥈 Trithon 2025
+
 **₹3,000 Prize**
 
 Built advanced analytics dashboard
@@ -225,13 +238,13 @@ Built advanced analytics dashboard
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrinal-mann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinal-mann&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrinal-mann&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinal-mann&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal-mann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal-mann&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;langs_count=8"/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrinal-mann&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrinal-mann&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ffffff" width="100%"/>
 
 </div>
 
@@ -261,7 +274,7 @@ graph LR
     D --> F[Embedding Models]
     G[Production Systems] --> H[Scalability]
     G --> I[Observability]
-    
+
     style A fill:#58a6ff
     style D fill:#58a6ff
     style G fill:#58a6ff
@@ -271,13 +284,13 @@ graph LR
 
 ### 📈 Skills Progress
 
-| Skill | Experience |
-|-------|------------|
+| Skill                  | Experience               |
+| ---------------------- | ------------------------ |
 | Full-Stack Development | ███████████████████░ 95% |
-| AI/ML Integration | ██████████████████░░ 90% |
-| Backend Architecture | ████████████████████ 88% |
-| DevOps & Cloud | ███████████████░░░░░ 75% |
-| System Design | ██████████████░░░░░░ 70% |
+| AI/ML Integration      | ██████████████████░░ 90% |
+| Backend Architecture   | ████████████████████ 88% |
+| DevOps & Cloud         | ███████████████░░░░░ 75% |
+| System Design          | ██████████████░░░░░░ 70% |
 
 </div>
 
@@ -288,6 +301,7 @@ graph LR
 <div align="center">
 
 **I'm always open to:**
+
 - 🚀 Innovative AI/ML projects
 - 💡 Full-stack development opportunities
 - 🤝 Open source collaborations
@@ -295,7 +309,7 @@ graph LR
 
 ### 📧 Reach me at: [mrinalmanna2004@gmail.com](mailto:mrinalmanna2004@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer"/>
 
 </div>
 
