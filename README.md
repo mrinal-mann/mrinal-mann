@@ -225,13 +225,13 @@ Built advanced analytics dashboard
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrinal-manna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinal-manna&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrinal-mann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinal-mann&theme=tokyonight&hide_border=true&background=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal-manna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal-mann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrinal-manna&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrinal-mann&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="100%"/>
 
 </div>
 
@@ -242,9 +242,9 @@ Built advanced analytics dashboard
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrinal-manna/mrinal-manna/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrinal-manna/mrinal-manna/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mrinal-manna/mrinal-manna/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrinal-mann/mrinal-mann/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrinal-mann/mrinal-mann/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mrinal-mann/mrinal-mann/output/github-snake.svg" />
 </picture>
 
 </div>
