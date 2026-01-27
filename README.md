@@ -1,10 +1,14 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Mrinal%20Manna&amp;fontSize=42&amp;fontAlignY=35&amp;animation=twinkling&amp;fontColor=fff&amp;desc=Full-Stack%20%26%20AI%20Engineer%20|%203x%20Hackathon%20Winner&amp;descAlignY=55&amp;descSize=18"/>
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Mrinal%20Manna&fontSize=42&fontAlignY=35&fontColor=fff&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=55&descSize=18"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Building+AI-Powered+Solutions+%F0%9F%9A%80;Full-Stack+Developer+%7C+GenAI+Engineer;RAG+Pipelines+%7C+Scalable+Backends;Chrome+Extension+(1K%2B+Users)+%F0%9F%8C%9F" alt="Typing SVG" />
+
+### 🚀 Building AI-Powered Solutions  
+**Full-Stack Developer | GenAI Engineer**  
+RAG Pipelines • Scalable Backends • Chrome Extension (1K+ Users) 🌟
+
 
 <!-- Social Badges -->
 <p>
@@ -187,7 +191,8 @@ const mrinalManna = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mrinal-mann&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4&amp;column=7" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mrinal-mann&theme=onedark&no-frame=true&column=4" />
+
 
 </div>
 
