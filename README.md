@@ -238,7 +238,7 @@ Built advanced analytics dashboard
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrinal-mann&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrinal-mann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=21600"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinal-mann&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal-mann&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;langs_count=8"/>
