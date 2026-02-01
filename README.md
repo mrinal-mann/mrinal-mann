@@ -1,11 +1,15 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="100%" />
-### 🚀 Building AI-Powered Solutions  
-**Full-Stack Developer | GenAI Engineer**  
-RAG Pipelines • Scalable Backends • Chrome Extension (1K+ Users) 🌟
 
+<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="100%" />
+
+<h1>Mrinal Manna</h1>
+<h3>🚀 Building AI-Powered Solutions</h3>
+<p>
+  <b>Full-Stack Developer | GenAI Engineer</b><br>
+  RAG Pipelines • Scalable Backends • Chrome Extension (1K+ Users) 🌟
+</p>
 
 <!-- Social Badges -->
 <p>
