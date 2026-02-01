@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <img width="100%" 
-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=160&amp;section=header&amp;text=Mrinal%20Manna&amp;fontSize=42&amp;fontAlignY=40&amp;fontColor=fff&amp;desc=Full-Stack%20%26%20AI%20Engineer&amp;descAlignY=60&amp;descSize=18"/>
+src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=160&amp;section=header&amp;text=Mrinal%20Manna&amp;fontSize=42&amp;fontAlignY=45&amp;fontColor=fff&amp;desc=Full-Stack%20%26%20AI%20Engineer&amp;descAlignY=65&amp;descSize=18"/>
 
 ### 🚀 Building AI-Powered Solutions  
 **Full-Stack Developer | GenAI Engineer**  
