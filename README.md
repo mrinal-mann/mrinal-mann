@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Mrinal%20Manna&fontSize=45&fontAlignY=40&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=60&descSize=20"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Mrinal%20Manna&fontSize=42&fontAlignY=45&fontColor=fff&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=65&descSize=18"/>
 
 ### 🚀 Building AI-Powered Solutions  
 **Full-Stack Developer | GenAI Engineer**  
