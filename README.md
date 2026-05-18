@@ -43,8 +43,7 @@
 const mrinalManna = {
   location: "Balasore, India 🇮🇳",
   education: "B.Tech CSE @ BCET | GPA: 8.5/10",
-  currentRole: "Software Engineer Intern @ Wizible AI",
-  previousRole: "Software Engineer Intern @ Knugget AI",
+  currentRole: "Software Engineer Intern @ TorchKB AI",
 
   workingOn: ["AI Pipelines", "RAG Systems", "Multi-Model Integration"],
   learning: ["AI Agents", "LangChain", "Vector Databases"],
@@ -69,28 +68,15 @@ const mrinalManna = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-#### 🔷 Wizible AI (Current)
+#### 🔷 TorchKB AI — Bangalore, India
 
 **Software Engineer Intern** | _July 2025 - Present_
 
-- 🤖 Built multi-model AI pipelines (OpenAI, Claude, Gemini, LlamaIndex)
-- ⚡ Processing 100+ concurrent files with batch orchestration
-- 🔐 TypeScript/Express backend with secure uploads
-- 📊 Dynamic Supabase tables for large-scale data
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔷 Knugget AI
-
-**Software Engineer Intern** | _May 2025 - July 2025_
-
-- 🎯 Shipped GPT-powered Chrome extension (1K+ installs)
-- 🔧 Production-grade REST APIs with JWT/Firebase auth
-- 💳 Credit-based usage system with rate limiting
-- 📈 Built analytics pipelines for user insights
+- 🌐 **Cross-Platform Chrome Extension:** Shipped a production Chrome extension using content scripts, background service workers, and OAuth — enabling AI-powered summarization across YouTube, LinkedIn, and web pages
+- ⚙️ **Scalable Backend & Email Automation:** Engineered REST APIs and webhook-driven subscription workflows with validation and error handling; automated personalized weekly email digests for paid users
+- 🧠 **AI Processing & Token Management:** Designed token-aware AI processing pipelines with transcript chunking (100K+ chars), tier-based limits, billing-cycle automation, and usage monitoring
 
 </td>
 </tr>
@@ -149,36 +135,55 @@ const mrinalManna = {
 <tr>
 <td width="50%" valign="top">
 
-### 🌟 [RepoFlow AI](https://repoflow.vercel.app/)
+### 🌟 Rigorus AI
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mrinal-manna)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white)](#)
+
+**AI Council & Decision Engine**
+
+🔹 Multi-model orchestration across **10+ LLMs**  
+🔹 Parallel querying with structured synthesis  
+🔹 **~40% reduction** in single-model bias  
+🔹 Usage-based billing with BigInt precision & SSE streaming
+
+**Tech:** Next.js, OpenRouter, PostgreSQL, DodoPayments, Firebase
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ [RepoFlow AI](https://repoflow.vercel.app/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mrinal-manna/repoflow-ai)
 [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white)](https://repoflow.vercel.app/)
 
 **RAG-Powered GitHub Analytics Platform**
 
-🔹 AI commit/PR summarization using OpenAI  
-🔹 Semantic search with Supabase vectors  
-🔹 Interactive repo visualization  
-🔹 **50+ early users**
+🔹 RAG-based system using vector search  
+🔹 AI commit & PR summarization  
+🔹 Semantic search + interactive repo visualization  
+🔹 **50+ early users onboarded**
 
-**Tech:** Gemini AI, NeonDB, Next.js, tRPC, PostgreSQL
+**Tech:** Gemini AI, NeonDB Vector DB, Next.js, tRPC, PostgreSQL
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-### ✨ [Sketch2Code AI](https://sketch2-code.vercel.app/)
+### 🧩 SystemCraft — AI-Powered System Design Mentor
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mrinal-manna/sketch2code)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white)](https://sketch2-code.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mrinal-manna)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white)](#)
 
-**Sketch-to-JSX Conversion Pipeline**
+**AI-Driven System Design Analysis Engine**
 
-🔹 Hand-drawn UI → Tailwind JSX (85% fidelity)  
-🔹 Edge deployment with 20% latency reduction  
-🔹 Credit-gated onboarding system  
-🔹 Real-time preview generation
+🔹 Hybrid rule-based + LLM architecture checker that detects missing production patterns (caching, scaling, security)  
+🔹 Generates contextual, interview-ready improvement suggestions  
+🔹 "Git for System Design" — auto-detects resolved architectural gaps with full version history  
+🔹 Dynamic maturity scores (0–5) tracking design progression over time
 
-**Tech:** Next.js, Firebase, DeepSeek, Vercel, Drizzle ORM
+**Tech:** FastAPI, Next.js, PostgreSQL, OpenRouter, Redis
 
 </td>
 </tr>
@@ -323,6 +328,6 @@ graph LR
 
 <div align="center">
 
-**⭐ From [mrinal-manna](https://github.com/mrinal-manna) | Last Updated: December 2025**
+**⭐ From [mrinal-manna](https://github.com/mrinal-manna) | Last Updated: May 2026**
 
 </div>
